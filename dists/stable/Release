@@ -5,3 +5,12 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Aidalinfo Deb Repository
+
+MD5Sum:
+ a5a28f189e179ffc75a588086ce937d7 446 dists/stable/main/binary-amd64/Packages
+
+SHA1:
+ d928842477522f8da298185c19c32c1207e2b5c0 446 dists/stable/main/binary-amd64/Packages
+
+SHA256:
+ 04fd9115a2a670c6e23bf614bbb9e86723d1de914096bb70ae2441a56c79087b 446 dists/stable/main/binary-amd64/Packages
