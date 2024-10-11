@@ -2,6 +2,5 @@ Codename: stable
 Suite: stable
 Components: main
 Architectures: amd64
-Multiple: yes
 SignWith: D361D1BC6756F07C94E33ADD4786BE349F3F47A6
 
