@@ -2,19 +2,19 @@ Origin: Aidalinfo
 Label: Aidalinfo
 Suite: stable
 Codename: stable
-Date: Fri, 11 Oct 2024 10:19:38 UTC
+Date: Fri, 11 Oct 2024 10:26:31 UTC
 Architectures: amd64
 Components: main
 Description: Aidalinfo Deb Repository
 
 MD5Sum:
-88b5bb5ae927ed80bfd191dfd88fe96d 446 main/binary-amd64/Packages
-d601ed1ed022bc16e9fe1cb7cb824c58 345 main/binary-amd64/Packages.gz
+ 81f63f73b1ddb3287a5ff0e0da9016d4 446 main/binary-amd64/Packages
+ 2684bdfa195d8ff6609781eb7e4afd4f 343 main/binary-amd64/Packages.gz
 
 SHA1:
-8952c8558de92cf51807e3d6a03b2309b1e9e281 446 main/binary-amd64/Packages
-702a85aa066f1fc3b2daddae27b6da8fca4eca3e 345 main/binary-amd64/Packages.gz
+ cbc33b32e194fd24fd1b05d0e0dea3ecd2d9e69c 446 main/binary-amd64/Packages
+ a61e985f91147618fc902daf271982a8549ce91f 343 main/binary-amd64/Packages.gz
 
 SHA256:
-0adc4ef97afafae00cd92eb864c62a80ac34489d7ed74af1e84b411cbb77b067 446 main/binary-amd64/Packages
-2548772c91a79119502ed4db1aca43466f4ec486cbcf922b427ffcc4ec156753 345 main/binary-amd64/Packages.gz
+ 49d4f104c28c067244d8e0b6d9519669fee1c709a5ba8ffa2acc8484343f19f8 446 main/binary-amd64/Packages
+ e446af55a64ffcca0263a7e4e6075bd11613ae78d2ab6b62184efa73a83177d1 343 main/binary-amd64/Packages.gz
