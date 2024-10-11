@@ -2,11 +2,11 @@ Package: ansible-lite
 Version: 0.0.1
 Architecture: amd64
 Maintainer: STEIN Killian - <killian.stein@aidalinfo.fr>
-Filename: pool/main/a/ansible-lite/v0.0.6/ansible-lite-amd64.deb
-Size: 7246798
-MD5sum: 32d48b6a0fe1b426eecc702a22332d8a
-SHA1: b72b44098fe79d7e99822b83a6237d4f3b9db130
-SHA256: d5ea921e22add7903056172a5fdf61e0d77e3373b611c4c9383a5c0346c7d8c4
+Filename: pool/main/a/ansible-lite/v0.0.7/ansible-lite-amd64.deb
+Size: 7246694
+MD5sum: b3523c5c10529404650e6f98e77b4697
+SHA1: 5efae877fbee936ea3910cea5f82b38e7c7f91a7
+SHA256: 27123128035ee6a36239559f6c7cb4cfac3337c53a9f01b9051aa94bbf145841
 Section: base
 Priority: optional
 Description: Ansible Lite - A lightweight automation tool
