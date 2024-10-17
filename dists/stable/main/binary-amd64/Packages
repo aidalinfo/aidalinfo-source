@@ -1,14 +1,14 @@
 Package: ansible-lite
-Version: 0.0.4
+Version: 0.0.5
 Architecture: amd64
 Maintainer: STEIN Killian - <killian.stein@aidalinfo.fr>
 Priority: optional
 Section: base
-Filename: pool/main/a/ansible-lite/ansible-lite_0.0.4_amd64.deb
-Size: 7721936
-SHA256: fd0ef80c5b36395ddb27f9e6675c282c82947f7bba521cd192a254cce5e748ce
-SHA1: 2a45ebb9cba734e7732631ef6e9ca9adbd28c9e5
-MD5sum: efa6a8b1b670402a50fd24cf36109c77
+Filename: pool/main/a/ansible-lite/ansible-lite_0.0.5_amd64.deb
+Size: 7798662
+SHA256: cb569ee1d68b13e5d0bc4e70a529cc3d0928b03d71579ecc23e1c901e1299a4e
+SHA1: fb41f221e1f5d03aa53db661642e525049cd2ca6
+MD5sum: 6c2442dc92d2a2ec8d57f21b78b7bb2f
 Description: Ansible Lite - A lightweight automation tool
 
 Package: ansible-lite-0.0.1
@@ -61,5 +61,18 @@ Size: 7722044
 SHA256: dd85010da28efd0190680cf44f852170915e92782ac5bfee90b23be7fb0ae033
 SHA1: 73a26a0383e20806e16e4153e0658d6a0d118631
 MD5sum: 53b41d2c15abccc95eef244bab5085e9
+Description: Ansible Lite - A lightweight automation tool
+
+Package: ansible-lite-0.0.5
+Version: 0.0.5
+Architecture: amd64
+Maintainer: STEIN Killian - <killian.stein@aidalinfo.fr>
+Priority: optional
+Section: base
+Filename: pool/main/a/ansible-lite-0.0.5/ansible-lite-0.0.5_0.0.5_amd64.deb
+Size: 7798652
+SHA256: e740b53b57be1c0b76c9b722f2047284fc5d03348f0b8a1740e951ad5b2cdc9d
+SHA1: a3000c4aa7c40bcb2a09660ef0a379e6bc1a617b
+MD5sum: 6e4019ac012b634827a0a36f19b9c038
 Description: Ansible Lite - A lightweight automation tool
 

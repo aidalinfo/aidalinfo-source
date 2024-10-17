@@ -3,32 +3,32 @@ Hash: SHA512
 
 Suite: stable
 Codename: stable
-Date: Wed, 16 Oct 2024 08:56:53 UTC
+Date: Thu, 17 Oct 2024 17:46:52 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- 41f2ec6938020f403f9c6c4edc972c6d 2297 main/binary-amd64/Packages
- 6a73b1e6fe241b1197270021613e4a46 787 main/binary-amd64/Packages.gz
+ 353fd99b7cdb768f4b75ae6771f57c5e 2760 main/binary-amd64/Packages
+ c7e22b659c1d36620a6dad27596f4300 894 main/binary-amd64/Packages.gz
  82a1ae90445e5284617f8a8cc3a53fa4 52 main/binary-amd64/Release
 SHA1:
- 36753d1adbda4b8b3acede808af71728a5e37df1 2297 main/binary-amd64/Packages
- 0d7398f3bbcbef2cc4bbd095e9053e9b1919bb66 787 main/binary-amd64/Packages.gz
+ 0c12ed0484fed33eb245c99b4f10c561962d7fe3 2760 main/binary-amd64/Packages
+ 94f23451fab50a1551521a34e90ebcef501d5d37 894 main/binary-amd64/Packages.gz
  9b61d92e2c42866227d305db51276f4714da5cd9 52 main/binary-amd64/Release
 SHA256:
- 747cfa05ba99da7e0777fffc8c0ea71f50d963f8f65d197f22fa5d8934bddb22 2297 main/binary-amd64/Packages
- df250583ebc26c37c1da2b47ef75b9bf76ccb8f7667e77f9b447615ba11fa6ff 787 main/binary-amd64/Packages.gz
+ b6488f484b055445668a1ad9d4d060b5dbf77639b79526acf241619a87f073d8 2760 main/binary-amd64/Packages
+ 1f038d2afb1fd7749fdbc8330731dc5c9c47189f583345bda45c72a7303930dd 894 main/binary-amd64/Packages.gz
  5d14a4f1b270a16b7797dfa013f0d0d3325c616762714c6e9a34295a4d9be351 52 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE02HRvGdW8HyU4zrdR4a+NJ8/R6YFAmcPf9UACgkQR4a+NJ8/
-R6aplwv+ILWcr8Ak05b/5BLdtj+/XDAhOYNs0yMX+ASldYe7aaQlCH0AjTKDcAO2
-I3aFAo1oFay25OA2e//t14YCvwiuDmt0UwCoSbwYqq2jYh3EIbnIJ0pJ9GApau/l
-xRBPUBKMzgWgFQJ4SASpahXpfhRY3B0Bl2LnXH9DnEBBXENCVEVJlgeSEt6xH76l
-l3F588fp/+QNx/lupNqZAC5lhdRyuYIuyYbPBEZpvRSCfa+JSz+u8/104wLpaV06
-F1Ar0iMngJKJiLFNjLwnyE74sNN9EV5XQb++wKlmw4KnHZmxbKoklo20DVrPAkrk
-7mdlfI65nE0siGGpvyJTtWiDdWrpOeXIh13J5g73VoilncXoUe+ck+jZkNXJlUTh
-1XMh2784CY6dHpwFOauW5gICPatPAtlskSRV6IQ4pqpjyGxMAg+qaGQPSZfxtP5p
-tZvss9HUEv7dEOlKYLsYoqJwWbhgtFX3ocZTtKCNFuidGa/JRwT4EDJc5UetXC0x
-6DB5Bevo
-=DHok
+iQGzBAEBCgAdFiEE02HRvGdW8HyU4zrdR4a+NJ8/R6YFAmcRTYwACgkQR4a+NJ8/
+R6aGSAwAwG3raPZiiyZp0xAx0VSD/Sgqj47JB8cJSL7J0GkQ/MZUOfyFtazLzOL5
+Zq4+JRHKUzdh0/VDLCPNTlzoG7CV1vHIKSu2uoAobTz1HolSJ5dn+XJS/KoVgn74
+g7l4SvH66+BuwGWrkugmCurk8vI6OktBwZJuOiPhw8sA6jYkhQFTf4eGzW5fVzVY
+IApXMBmdBl/NcghjH0ZXxxCi4EbDIlMhmYcPy5yBdND+gZ6rtKDGz1JdPXE9QSQs
+l82taISf4fFvQMHgKadpzmt0itaFtiu/4LcdjfRRxhx2AANI8hg6JoHPimyX4CQV
+pJ+ji6HsnqVMc5x7kHIQ2NfA7tcNgInBENCEDkoP5lBlQllpDoggFX3a/4kmMYk4
+sIuOetPdHq2UX2XtNC6B8chEn0Ued6IYyc3chLD2wZm8Z04S+ymipW33uh5eWSf0
+MHt+zVpOwRhkvMI/f9ErovhsFn2Su0kvuBp+fFYD6ej4o/p2wapmbml0NhibB/Si
+KVFf9ply
+=DKRU
 -----END PGP SIGNATURE-----
